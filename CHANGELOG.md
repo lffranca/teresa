@@ -19,6 +19,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - [server] Fix long running exec commands
 - [server] Fix lack of error handling when streaming messages from readers
 - [client] Add limits validation on app creation
+- [server] Fix panic when monitoring the rolling update
 
 ## [0.22.0] - 2018-06-07
 ### Changed
